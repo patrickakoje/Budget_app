@@ -1,3 +1,3 @@
 # Budget_app
-a budget app for budgeting perdonal expenses
-a pet projec learning how to build budget apps
+a budget app for budgeting personal expenses
+a pet project learning how to build budget apps
